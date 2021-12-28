@@ -1,11 +1,11 @@
 {
-    users : [
+    "users" : [
         {
-            "id": 1,
-            "nama": "afifah",
-            "alamat": "Malang",
-            "umur": "24",
-            "noHp": "08563204369"
+            id: 1,
+            nama: "afifah",
+            alamat: "Malang",
+            umur: "24",
+            noHp: "08563204369"
         },
         {
             "id": 2,
