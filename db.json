@@ -1,0 +1,80 @@
+{
+    "users" : [
+        {
+            "id": 1,
+            "nama": "afifah",
+            "alamat": "Malang",
+            "umur": "24",
+            "noHp": "08563204369"
+        },
+        {
+            "id": 2,
+            "nama": "bayu",
+            "alamat": "Mojokerto",
+            "umur": "24",
+            "noHp": "08563204369"
+        },
+        {
+            "id": 3,
+            "nama": "hendro",
+            "alamat": "surabaya",
+            "umur": "24",
+            "noHp": "08563204369"
+        },
+        {
+            "id": 4,
+            "nama": "fifah",
+            "alamat": "Malang",
+            "umur": "24",
+            "noHp": "08563204369"
+        },
+        {
+            "id": 5,
+            "nama": "ayu",
+            "alamat": "Mojokerto",
+            "umur": "24",
+            "noHp": "08563204369"
+        },
+        {
+            "id": 6,
+            "nama": "ndro",
+            "alamat": "surabaya",
+            "umur": "24",
+            "noHp": "08563204369"
+        },{
+            "id": 7,
+            "nama": "ifah",
+            "alamat": "Malang",
+            "umur": "24",
+            "noHp": "08563204369"
+        },
+        {
+            "id": 8,
+            "nama": "uyab",
+            "alamat": "Mojokerto",
+            "umur": "23",
+            "noHp": "08563204369"
+        },
+        {
+            "id": 9,
+            "nama": "kartiko",
+            "alamat": "surabaya",
+            "umur": "22",
+            "noHp": "08563204369"
+        },
+        {
+            "id": 10,
+            "nama": "yab",
+            "alamat": "Mojokerto",
+            "umur": "28",
+            "noHp": "08563204369"
+        },
+        {
+            "id": 11,
+            "nama": "tiko",
+            "alamat": "surabaya",
+            "umur": "25",
+            "noHp": "08563204369"
+        }
+    ]
+}
